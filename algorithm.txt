@@ -1,0 +1,20 @@
+// Honor Pledge:
+//
+// I pledge that I have neither given nor
+// received any help on this assignment.
+// 
+// piercnic
+
+Bubble sort has a time complexity Big O of n^2. 
+The time function when simplifying it to it's lowest form, gives the form of a quadratic function.
+The Big O represents the "efficiency" of the algorithm in its worst case, Big omega is the worst case scenario for the algorithm
+meaning that when the list that is being sorted in in its worst case IE, backwards, the algorithm is terribly inefficient.
+
+Insertion sort has a time complexity Big O of n^2. 
+The time function when simplifying it to it's lowest form, gives the form of a quadratic function.
+The Big O represents the "efficiency" of the algorithm in its worst case, Big omega is the worst case scenario for the algorithm
+meaning that when the list that is being sorted in in its worst case IE, backwards, the algorithm is terribly inefficient.
+
+Both of these algorithms have the same Big O values of n^2, meaning that when they lists being sorted are backwards, they're inefficient.
+Essentially, in the form of x^2 + ax + c, the size of the list in question represents x, when x is a larger value, the values blow
+off to vastly higher numbers very quickly, the entire function models the time complexity of the algorithm.
